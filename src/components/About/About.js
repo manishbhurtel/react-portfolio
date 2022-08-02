@@ -19,7 +19,7 @@ function About() {
           />
           <Card
             cardHeading="Why am I applicable?"
-            cardText="I ahve good academic grades and overall IELTS score of 7.5 along with the appropriate knowledge of Python nad several computer programming languages. Also I am very much determined to give my 100% best in this field."
+            cardText="I have good academic grades and overall IELTS score of 7.5 along with the appropriate knowledge of Python nad several computer programming languages. Also I am very much determined to give my 100% best in this field."
           />
         </div>
       </div>
