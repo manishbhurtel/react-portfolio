@@ -15,11 +15,11 @@ function About() {
         <div className="abt-card">
           <Card
             cardHeading="Who is Namrata?"
-            cardText="Passionate in the field of Information Technology, I am hardworking and dedicated student from Pokhara, Nepal. I have keen interests in modern technologies and I am fascinated by the world of Artificial Intelligence. And hoping for the best to pursue my career in Software Engineering."
+            cardText="Passionate in the field of Information Technology, I am hardworking and dedicated student from Pokhara, Nepal. I have keen interests in modern technologies and I am fascinated by the world of Artificial Intelligence. And hoping for the best to pursue my career in Software Engineering(Artificial Intelligence)."
           />
           <Card
             cardHeading="Why am I applicable?"
-            cardText="I ahve good academic grades and overall IELTS score of 7.5 along with the appropriate knowledge of Python nad several computer programming languages. Also I am very much determined to give my 100% best."
+            cardText="I ahve good academic grades and overall IELTS score of 7.5 along with the appropriate knowledge of Python nad several computer programming languages. Also I am very much determined to give my 100% best in this field."
           />
         </div>
       </div>
